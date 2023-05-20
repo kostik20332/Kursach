@@ -375,7 +375,7 @@ bool AdminEnter()
 		while (true)
 		{
 			system("cls");
-			cout << horizontalGap << "        Личный кабинет" << endl;
+			cout << horizontalGap << "        Личный кабинет администратора" << endl;
 			cout << horizontalGap << "1 - Просмотр личных данных" << endl;
 			cout << horizontalGap << "2 - Редактирование личных данных" << endl;
 			cout << horizontalGap << "3 - Редактирование данных пользователя" << endl;
